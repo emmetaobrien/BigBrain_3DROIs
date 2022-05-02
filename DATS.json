@@ -1,12 +1,10 @@
 {
     "title": "BigBrain dataset - 3D ROIs (derived dataset)",
     "description": "The BigBrain 3D ROIs dataset contains 3D regions of interest (ROI) derived from the BigBrain dataset, a digitized reconstruction of high-resolution histological sections of the brain of a 65 years old man with no history of neurological or psychiatric diseases. The BigBrain dataset is the result of a collaborative effort between the teams of Dr. Katrin Amunts and Dr. Karl Zilles (Forschungszentrum Jülich) and Dr. Alan Evans (Montreal Neurological Institute). For more information please visit the BigBrain Project website [https://bigbrainproject.org]",
-    "identifier": [
-        {
-            "identifier": "https://n2t.net/ark:/70798/d7z15v9bk8vvx2mvs7",
-            "identifierSource": "CONP Portal - NAAN 70798"
-        }
-    ],
+    "identifier": {
+        "identifier": "https://n2t.net/ark:/70798/d7z15v9bk8vvx2mvs7",
+        "identifierSource": "CONP Portal - NAAN 70798"
+    },
     "licenses": [
 		{
             "@type": "License",
